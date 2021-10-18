@@ -1,0 +1,22 @@
+{
+  "name": "BonkURL",
+  "description": "Bonk your URL!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "tabs"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "./assets/bonk16.png",
+      "32": "./assets/bonk32.png",
+      "48": "./assets/bonk48.png",
+      "128": "./assets/bonk128.png"
+    },
+    "icons": {
+      "16": "./assets/bonk16.png",
+      "32": "./assets/bonk32.png",
+      "48": "./assets/bonk48.png",
+      "128": "./assets/bonk128.png"
+    }
+  }
+}
