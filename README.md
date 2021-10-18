@@ -5,4 +5,5 @@
 
 Authors:
 Luiz Alex Butkeivicz (Front-end Development) binboukami@github
+<br /> 
 Danton Rodrigues Mariano (Back-end Development) DantonMariano@github
